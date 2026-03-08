@@ -9,8 +9,9 @@ Practice linking internal pages and external resources.
 Organize content using ordered and unordered lists.
 Manage version control using Git and GitHub.
 
-Recipes Included
-[List your recipe names here, e.g., Lasagna, Tacos, etc.]
+Recipes Included:
+Pizza Recipe
+Pasta(Al Dente) Recipe
 
 Technologies Used
 HTML
